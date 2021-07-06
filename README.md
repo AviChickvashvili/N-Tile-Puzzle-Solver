@@ -34,5 +34,5 @@ Goal state:
   
 
   
-  the game will return the path to the solution , the path is gurenteed to be the shortest and the most efficent you can find.
+  the game will return the path to the solution , the path is guaranteed to be the shortest and the most efficent you can find.
   Enjoy.
