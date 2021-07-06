@@ -1,11 +1,11 @@
 # N-Tile-Puzzle-Solver
-I created an N-Tile puzzle solver , using graph search algorithems
+I created an N-Tile puzzle solver , using graph search algorithms
 
 Such as :BFS ,DFBnB, DFID ,IDA , A*.
 
 to play the game the user should enter :
 
-  size of the board, what algoritham to choose , inital state , and goal state. 
+  size of the board, what algorithm to choose , inital state , and goal state. 
 
   for example: 
 BFS
