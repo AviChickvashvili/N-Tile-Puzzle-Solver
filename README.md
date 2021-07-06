@@ -1,5 +1,6 @@
 # N-Tile-Puzzle-Solver
 I created an N-Tile puzzle solver , using graph search algorithems
+
 Such as :BFS ,DFBnB, DFID ,IDA , A*.
 
 to play the game the user should enter :
