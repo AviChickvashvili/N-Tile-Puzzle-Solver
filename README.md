@@ -4,7 +4,9 @@ I created an N-Tile puzzle solver , using graph search algorithems
 Such as :BFS ,DFBnB, DFID ,IDA , A*.
 
 to play the game the user should enter :
+
   size of the board, what algoritham to choose , inital state , and goal state. 
+
   for example: 
 BFS
 with time
