@@ -9,15 +9,25 @@ to play the game the user should enter :
 
   for example: 
 BFS
+
 with time
+
 no open
+
 3x4
+
 1,2,3,4
+
 5,6,11,7
+
 9,10,8,_
+
 Goal state:
+
 1,2,3,4
+
 5,6,7,8
+
 9,10,11,_
   
   
