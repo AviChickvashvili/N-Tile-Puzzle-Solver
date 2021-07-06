@@ -5,9 +5,10 @@ Such as :BFS ,DFBnB, DFID ,IDA , A*.
 
 to play the game the user should enter :
 
-  size of the board, what algorithm to choose , inital state , and goal state. 
+size of the board, what algorithm to choose , inital state , and goal state. 
 
-  for example: 
+for example: 
+
 BFS
 
 with time
@@ -31,6 +32,7 @@ Goal state:
 9,10,11,_
   
   
+
   
   the game will return the path to the solution , the path is gurenteed to be the shortest and the most efficent you can find.
   Enjoy.
